@@ -1,0 +1,28 @@
+.myscreen{
+    width: 1192px;
+
+    max-width: 85%;
+    margin:0 auto;
+}
+
+
+     @media screen and (max-width: 992px) { 
+        .display-1{
+            font-size: 3rem !important;
+        }
+        
+         }
+    
+            
+    @media screen and (max-width: 768px) { 
+    .display-1{
+        font-size: 2rem !important;
+    }
+    
+    }
+    @media screen and (max-width: 576px) { 
+        .display-1{
+            font-size: 1rem !important;
+        }
+        
+         }
